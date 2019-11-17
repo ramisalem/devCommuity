@@ -37,7 +37,7 @@ npm run build
 
 ### Author
 
-Brad Traversy
+
 [Rami Bamaas ](http://www.ramitech.me/)
 
 ### Version
